@@ -4,7 +4,7 @@
 ---
 
 #### Objective  
- Built a CNN-based Image Classification Model to classify CIFAR-10 images into 10 object categories.
+- Built a CNN-based Image Classification Model to classify CIFAR-10 images into 10 object categories.
 ---
 
 #### Approach  
